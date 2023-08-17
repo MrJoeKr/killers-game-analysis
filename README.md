@@ -4,8 +4,8 @@ Zabijaci (translation: Killers) is a game I played in Scout camp. The rules are 
 
 ## File Content
 
-* Open `analysis.ipynb` file to see an analysis of the game.
-* `game.py` contains functions for generating a game and data.
+* Open [analysis.ipynb](./analysis.ipynb) file to see an analysis of the game.
+* [game.py](./game.py) contains functions for generating a game and data.
 
 Enjoy.
 - MrJoeKr
