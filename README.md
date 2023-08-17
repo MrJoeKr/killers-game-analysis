@@ -9,7 +9,7 @@ Zabijaci (translation: Killers) is a game I played in Scout camp. The rules are 
 
 ### What was the intention to make this repo?
 
-Sheer curiosity to find out how the cycles distribution looks like. It was also fun.
+Sheer curiosity to find out what the cycle distribution looks like. It was also fun.
 
 Enjoy.
 - MrJoeKr
