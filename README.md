@@ -7,5 +7,9 @@ Zabijaci (translation: Killers) is a game I played in Scout camp. The rules are 
 * Open [analysis.ipynb](./analysis.ipynb) file to see an analysis of the game.
 * [game.py](./game.py) contains functions for generating a game and data.
 
+### What was the intention to make this repo?
+
+Sheer curiosity to find out how the cycles distribution looks like. It was also fun.
+
 Enjoy.
 - MrJoeKr
